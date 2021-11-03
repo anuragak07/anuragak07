@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I am Civil Engineer
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=anuragak07&show_icons=true"
-">
+<img src ="https://github-readme-stats.vercel.app/api?username=anuragak07&show_icons=true">
 
 
